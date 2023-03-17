@@ -13,7 +13,7 @@ def z2():
     except ValueError:
         print('Введено не число ')
     else:
-        print('100 / 2 = ', b)
+        print('100, деленное на число = ', b)
 
 def z3():
     a= input("Введите дату: ")
